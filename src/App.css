@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom Classes */
+.App-navbar {
+  background: #8989ca;
+  padding: 20px;
+}
+.App-content {
+  background: beige;
+  height: 100vh;
+}
+.App-random {
+  background: green;
+  padding: 50px;
+}
+.App-results {
+  background: #a6bb88;
+  height: 50vh;
+}
